@@ -1,0 +1,70 @@
+
+body {
+max-width: 950px;
+background-color: rgb(212, 235, 212);
+font-family: Helvetica;
+padding: 0em 1em 1em 1em;
+}
+
+h1 {
+    font-family: Helvetica;
+    font-weight: 600;
+    font-size:36px;
+    color: rgb(25, 61, 25);
+    padding: 0em 1em 1em 1em;
+    }
+
+p {
+    font-family: Helvetica;
+    font-weight: 600;
+    font-size:22px;
+    color: rgb(25, 61, 25);
+    padding: 0em 0em 1em 1em;
+    }
+
+img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  label {
+    display: block;
+    font-family: Helvetica;
+    font-weight: 600;
+    font-size:18px;
+    color: rgb(62, 112, 62);
+    padding: 0em 1em 1em 1em;
+    }
+    
+    input {
+    width: 30px;
+    margin-left: 30px;
+    }
+    
+    h2 {
+    clear: both;
+    padding-top: 20px;
+    font-family: Helvetica;
+    font-weight: 600;
+    font-size:22px;
+    color: rgb(43, 59, 43);
+    padding: 0em 1em 1em 1em;
+    }
+    
+    button {
+    color:  rgb(62, 112, 62);
+    font-family: Helvetica;
+    font-size:18px;
+    width: 100px;
+    height: 50px;
+    margin-top: 20px;
+    
+    }
+
+    .submitButton {
+
+        margin-left: 1em;
+        
+        }
+    
+
